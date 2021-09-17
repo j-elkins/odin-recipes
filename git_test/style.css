@@ -5,6 +5,10 @@ html {
   align-items: center;
 }
 
+ul {
+  list-style-type: none;
+}
+
 a {
   color: purple;
 }
