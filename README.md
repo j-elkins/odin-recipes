@@ -1,5 +1,5 @@
 # odin-recipes
 
-Recipe webpage - HTML Foundation Lesson - Project Odin
+Welcome to my first HTML project for The Odin Project, Foundations course: a website of some of my favorite recipes.
 
-test.
+Enjoy!
